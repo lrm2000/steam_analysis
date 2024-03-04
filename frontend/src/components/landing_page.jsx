@@ -10,6 +10,8 @@ import {
     Heading
 } from "@chakra-ui/react";
 
+// TODO: make card span a fixed length
+
 const LandingPage = () => {
     return (
         <Box bg="#171a21" minH="100vh">
